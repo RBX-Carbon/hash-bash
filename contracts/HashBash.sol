@@ -14,6 +14,7 @@ contract HashBash {
     }
 
     constructor(bytes32[12] memory hash_mash, uint _initime) {
+        owner = msg.sender;
         initime = _initime;
         for (uint8 i = 0; i < hash_mash.length; i++) hashMash[i] = hash_mash[i];
     }
