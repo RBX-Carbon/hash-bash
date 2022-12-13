@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#2723f54d",
+        "editor.selectionHighlightBackground": "#ee8d8d5b",
+        "editor.findMatchBackground": "#00cc4459",
+        "editor.findMatchHighlightBackground": "#ff7b003b",
+        "numberedBookmarks.lineBackground": "#007700",
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    }
+}
